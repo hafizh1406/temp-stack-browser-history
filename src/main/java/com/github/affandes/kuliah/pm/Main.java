@@ -4,7 +4,7 @@ package com.github.affandes.kuliah.pm;
 import java.util.Stack;
 import java.util.Scanner;
 
-public class broser {
+public class main {
     public static void main(String[] args) {
         Stack<String> history = new Stack<>();
         Scanner input = new Scanner(System.in);
